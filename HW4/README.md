@@ -8,9 +8,10 @@ Furthrermore, as an extra activity, this homework contains plots of the ratio of
 2 - Who you worked with
 
 None
+
 P.S. Lan Yu gives me an idea of how to merge the blackpop dataframe with the total dataframe (code #23)
 
 
 3 - What things were you responsible
 
-data coding and plotting
+All the data coding and plotting 
