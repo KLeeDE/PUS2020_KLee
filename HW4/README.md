@@ -6,7 +6,8 @@ do not refer to people by their race without the word people when the name of th
 
 in Delaware and plot the ratio of the black and white in the Delaware map. 
 By using the census data in Pythin (with API key), this homework shows how to use the census data, merge the dataframe, and plot the geo-data. 
-Furthrermore, as an extra activity, this homework contains plots of the ratio of total male and femaale and the ratio of male and female # do you mean the ratio? I think you mean the number
+Furthrermore, as an extra activity, this homework contains plots of the ratio of total male and femaale and the ratio of male and female 
+# do you mean the ratio? I think you mean the number
 
 at the age of 25-29 in Delaware. 
 
