@@ -1,6 +1,9 @@
 1 - What the homework was about in your own words
 
-The homework 6 contains solutions for HW5 and the new data analysis with regards to exploratory geospatial analysis. This homework is based on democratic and republicans voter turnout. I plotted the geospatial analysis results on the Delaware map, create the rook and queens weights for the DE electoral map geoDF, make a connection plot, create the spatial lag metrics and calculate the global Moran's I.
+The homework 6 contains solutions for HW5 and the new data analysis with regards to exploratory geospatial analysis. 
+This homework is based on democratic and republicans voter turnout. 
+I plotted the geospatial analysis results on the Delaware map, create the rook and queens weights for the DE electoral map geoDF, make a connection plot, 
+create the spatial lag metrics and calculate the global Moran's I.
 
 2 - Who you worked with
 
