@@ -12,10 +12,7 @@ at the age of 25-29 in Delaware.
 
 2 - Who you worked with
 
-None
-
-P.S. Lan Yu gives me an idea of how to merge the blackpop dataframe with the total dataframe (code #23)
-
+I do it by myself (discusses the result with Lan)
 
 3 - What things were you responsible
 
