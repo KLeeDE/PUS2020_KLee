@@ -1,0 +1,44 @@
+SPPA667 
+Urban Flood Risk and Social Vulnerability Assessment in Wilmington, Delaware: 
+A Comparative Study of Machine Learning Techniques 
+<Kyungmin Lee, github.com/KLeeDE, kmlee@udel.edu, main author>
+
+Solo project. 
+
+Each report needs to include the following sections: 
+Abstract: This project is a geospatial analysis on the flood risk and social status data in Wilmington, Delaware. Based on the previous research on the flood risk assessment in Delaware, the Wilmington shows high possibility that the low mean income residents live in the area where contains high possibility of the flood risks. As for the research questions, this research aims to find out whether the flood depth depend on the socio-economic and demographic data in Wilmington. This research will use the machine learning techniques and find out the applicable techniques with regards to the flood risk and social status data in Wilmington. Based on the results, this research will find out the applicable machine learning techniques for the urban flood risk and social vulnerability assessment and suggest environmental or disaster policy implications to improve protection of the minority in the urban city. 
+
+Introduction: The urban flood risk is important in terms of the environmental justice and vulnerability to protect minority (Eisenman et al., 2007; Walker et al., 2011; Maantay et al., 2009). Eini et al. (2020) conducted hazard and urban flood risk mapping using Maximum Entropy (MaxEnt), and Genetic Algorithm Rule-Set Production (GARP) and evaluated the role of urban districts in Kemanchah city, Iran. Chakraborty et al. (2020) analyzed the social vulnerability to flood hazards in the context of environmental justice in Canada using sampling adequacy and variance test. Drabi et al. (2019) analyzed the urban flood risk mapping using the GARP and Quick Unbiased Efficient Statistical Tree (QUEST) models and compare the machine learning techniques. The previous studies show high possibility of using machine learning techniques in the assessment of urban flood risk and social vulnerability. However, the assessment has not been studied in the urban area in Delaware, where the state is in the east coast area and exposed to the annual flood risk. Therefore, this research aims to conduct geospatial analysis of the urban flood risk and social vulnerability in Wilmington and find out the applicable machine learning techniques for the future studies. 
+
+Data: The data is uploaded on the GitHub. Please note that this data is based on the state level and will be specified to Wilmington area. 
+Dataset name	URL	Number of rows	Number of columns	Number of relevant columns	Number of valid rows (not NaN on relevant columns)	Data type for each relevant column
+Merged Flood Risk Geodata and Social Census Data Frame
+(data_sub) 	https://github.com/KLeeDE/PUS2020_KLee/blob/master/Project/oneperdepth_Delaware_coastal_cblockg_social.ipynb
+550	12	12	550	int
+
+Methodology: Based on the previous studies, this research will conduct the MaxEnt, GARP, and QUEST models. The models are known to analyze the different conditioning factors, including multiple variables of socio and environmental factors. This research will also conduct the model evaluation to evaluate the model performance such as the receiver-operator characteristic curve and Kappa statistics used in Darabi et al. (2019). However, the machine learning techniques can be changed based on the data availability and technique limitations. 
+Deliverable: This research project aims to conduct geospatial analysis on the flood risk and social economic and demographic (SED) status in Wilmington, Delaware. The reason why the Wilmington is chosen is based on the data results from geospatial analysis at the State level as figures below. 
+ 
+Fig 1. One percent annual chance of flood risk in DE Based on the Federal Emergency Management Agency data (Unit: Feet). The result shows that the one percent possibility of flooding risk in coastal area, Delaware. 
+ 
+
+Fig 2. Comparison of Social Status in DE. Based on the U.S. census bureau data. The result shows that the percentage of low median income, non-white people, and below poverty level are relatively high in Wilmington, New Castle county, Delaware. 
+
+Based on the figure 1 and 2, the Wilmington area is the city where contains relatively high possibility of flooding risk in coastal area and where the minority, who have the characteristics of low middle income, high rate of non-white people, and below poverty line, live in. Therefore, this research focus on the Wilmington city and analyze the urban flood risk assessment. 
+
+Link to GitHub repo: https://github.com/KLeeDE/PUS2020_KLee/tree/master/Project
+Dr. Bianco will be a collaborator on the repo. 
+
+Bibliography: 
+Chakraborty, Liton, Horatiu Rus, Daniel Henstra, Jason Thistlethwaite, and Daniel Scott. 2020. “A Place-Based Socioeconomic Status Index: Measuring Social Vulnerability to Flood Hazards in the Context of Environmental Justice.” International Journal of Disaster Risk Reduction 43 (November 2019): 101394. https://doi.org/10.1016/j.ijdrr.2019.101394.
+Darabi, Hamid, Bahram Choubin, Omid Rahmati, Ali Torabi Haghighi, Biswajeet Pradhan, and Bjørn Kløve. 2019. “Urban Flood Risk Mapping Using the GARP and QUEST Models: A Comparative Study of Machine Learning Techniques.” Journal of Hydrology 569 (February 2018): 142–54. https://doi.org/10.1016/j.jhydrol.2018.12.002.
+Eini, Mohammad, Hesam Seyed Kaboli, Mohsen Rashidian, and Hossien Hedayat. 2020. “Hazard and Vulnerability in Urban Flood Risk Mapping: Machine Learning Techniques and Considering the Role of Urban Districts.” International Journal of Disaster Risk Reduction 50 (May): 101687. https://doi.org/10.1016/j.ijdrr.2020.101687.
+Eisenman, David P., Kristina M. Cordasco, Steve Asch, Joya F. Golden, and Deborah Glik. "Disaster planning and risk communication with vulnerable communities: lessons from Hurricane 
+Katrina." American journal of public health 97, no. Supplement_1 (2007): S109-S115.
+Mosavi, Amir, Pinar Ozturk, and Kwok Wing Chau. 2018. “Flood Prediction Using Machine Learning Models: Literature Review.” Water (Switzerland) 10 (11): 1–40. https://doi.org/10.3390/w10111536.
+Rahmati, Omid, Ali Golkarian, Trent Biggs, Saskia Keesstra, Farnoush Mohammadi, and Ioannis N. Daliakopoulos. 2019. “Land Subsidence Hazard Modeling: Machine Learning to Identify Predictors and the Role of Human Activities.” Journal of Environmental Management 236 (February): 466–80. https://doi.org/10.1016/j.jenvman.2019.02.020.
+Silva, M. M.G.T. De, and Akiyuki Kawasaki. 2020. “A Local-Scale Analysis to Understand Differences in Socioeconomic Factors Affecting Economic Loss Due to Floods among Different Communities.” International Journal of Disaster Risk Reduction 47: 101526. https://doi.org/10.1016/j.ijdrr.2020.101526.
+Walker, Gordon, and Kate Burningham. "Flood risk, vulnerability and environmental justice: evidence and evaluation of inequality in a UK context." Critical social policy 31, no. 2 (2011): 216-240.
+Maantay, Juliana, and Andrew Maroko. "Mapping urban risk: Flood hazards, race, & environmental justice in New York." Applied Geography 29, no. 1 (2009): 111-124.
+
+
