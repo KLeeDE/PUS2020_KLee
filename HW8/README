@@ -1,0 +1,14 @@
+1 - What the homework was about in your own words
+
+The homework 8 is following the paper "Examining the feasibility of using open data to benchmark building energy usage in cities: A data science and policy perspective" (Roth et al, 2019).
+In this homework, I chose two cities as London and Washington DC and conduct the Random Forest Regressor to find out the important features. 
+
+2 - Who you worked with
+
+Lan
+ 
+3 - What things were you responsible
+
+All the data coding and plotting 
+(Lan and I discuss together about the data selection and data preprocessing and support each others when we have problems. 
+Although the result is different since we preprocess the dataframes by ourselves, the data sources and the process of analysis are basically same.) 
