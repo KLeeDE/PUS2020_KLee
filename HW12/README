@@ -1,7 +1,11 @@
 
 1 - What the homework was about in your own words
 
-This homework is making plots and show visualization using Kmean clustering.
+This homework is making plots and show visualization using Kmean clustering. It includes:
+- clustering with K-Means and reshape into a color image
+- Use K-Means clustering for image segmentation
+
+* Please note that this homework is optional. The work is done at the middle stage.
 
 2 - Who you worked with
 
