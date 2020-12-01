@@ -20,6 +20,9 @@ My topic of the assignment is from the research project "An Analysis on the Floo
 
 ![fig1](./Image/fig1.png)
 
+![fig1](https://user-images.githubusercontent.com/60155597/100699609-7015ed80-3369-11eb-9cf6-5cc07f6dc199.png)
+
+
 **Fig1. Flood Depth Grid** 
 
 Subtitle is the one percent annual chance flood in coastal New Castle County (Unit: Feet). Flood hazard is defined by a relation between depth of flooding and the annual chance of inundation greater than that depth. Depth grid is defined by the percent annual chance floods. This is usually only the 1% annual chance flood.This figure is based on the raster data from the Federal Emergency Management Agency (FEMA) in 2014, which is the most recent available data in Delaware.
