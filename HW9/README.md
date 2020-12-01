@@ -19,17 +19,9 @@ Kyungmin Lee: data coding and plotting, data description
 # Homework 9 
 My topic of the assignment is from the research project "An Analysis on the Flood Risk and Socioeconomic-Demographic Status" 
 
-![fig1](./Image/fig1.png)
-
-![fig1](https://user-images.githubusercontent.com/60155597/100699609-7015ed80-3369-11eb-9cf6-5cc07f6dc199.png)
-
-
 <div>
 <img width="200" src="https://user-images.githubusercontent.com/60155597/100699609-7015ed80-3369-11eb-9cf6-5cc07f6dc199.png">
 </div>
-
-
-![fig1](https://raw.githubusercontent.com/60155597/100699609-7015ed80-3369-11eb-9cf6-5cc07f6dc199.png)
 
 
 **Fig1. Flood Depth Grid** 
