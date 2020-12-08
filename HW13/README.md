@@ -10,5 +10,5 @@ I worked this homework with Lan
 
 3 - What things were you responsible 
 
-Both of us have participated in the homework. 
+Both of us have participated in the homework for coding and interpretation. 
 
